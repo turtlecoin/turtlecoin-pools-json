@@ -46,5 +46,8 @@
 	},
 	"Atpool.party" : {
 		"url" : "http://turtle-eu.atpool.party:8117/"	
-	}
+	},
+        "turtle.mining.garden": {
+                "url": "https://turtle.mining.garden:8117/"
+        }
 }
