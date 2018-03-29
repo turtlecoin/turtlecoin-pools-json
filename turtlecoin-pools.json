@@ -49,5 +49,8 @@
 	},
 	"turtle.spacepools.org" : {
 		"url" : "https://turtle.spacepools.org/api/"
+	},
+	"trtl.cryptopool.space" : {
+		"url" : "https://trtl.cryptopool.space/api/"
 	}
 }
