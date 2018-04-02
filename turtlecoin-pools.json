@@ -1,4 +1,7 @@
 {
+	"trtl.flashpool.club" : {
+		"url" : "https://api.trtl.flashpool.club/"
+	},
 	"atpool.party" : {
 		"url" : "http://turtle-eu.atpool.party:8117/"
 	},
