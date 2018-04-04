@@ -41,11 +41,11 @@
     "turtle.coolmining.club" : {
         "url" : "https://turtle.coolmining.club/"
     },
-    "trtl.proxpool.com" : {
-        "url" : "http://trtl-pool.proxpool.com/api/"
-    },
     "turtle.mining.garden": {
         "url": "https://turtle.mining.garden:8117/"
+    },
+    "trtl.proxpool.com" : {
+        "url" : "http://trtl-pool.proxpool.com/api/"
     },
     "turtle.spacepools.org" : {
         "url" : "https://turtle.spacepools.org/api/"
