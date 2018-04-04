@@ -79,6 +79,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "Proxpool.com",
+            "url" : "http://trtl.proxpool.com/",
+            "api" : "http://trtl-pool.proxpool.com/api/",
+            "type" : "forknote"
+        },
+        {
             "name" : "semiPOOL.com",
             "url" : "https://trtl.semipool.com/",
             "api" : "https://trtl-api.semipool.com/",
