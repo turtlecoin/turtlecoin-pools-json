@@ -103,6 +103,12 @@
             "type" : "forknote"
         },
         {
+            "name" : "TRTL.proxpool",
+            "url" : "http://trtl.proxpool.com/",
+            "api" : "http://trtl-pool.proxpool.com/api/",
+            "type" : "node.js"
+        },
+        {
             "name" : "TurtlePool.space EU",
             "url" : "http://turtlepool.space/",
             "api" : "http://eu.turtlepool.space/api/",
