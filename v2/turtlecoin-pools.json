@@ -96,6 +96,12 @@
             "api" : "https://trtl-api.semipool.com/",
             "type" : "node.js"
         },
+		{
+            "name" : "Slow and Steady Fun",
+            "url" : "http://slowandsteady.fun/",
+            "api" : "http://slowandsteady.fun:8119/",
+            "type" : "forknote"
+		},
         {
             "name" : "SpacePools.org",
             "url" : "https://turtle.spacepools.org/",
