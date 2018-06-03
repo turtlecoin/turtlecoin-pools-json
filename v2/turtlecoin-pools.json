@@ -26,8 +26,8 @@
         },
         {
             "name" : "CryptoHispano.net",
-            "url" : "http://trtl.cryptohispano.net/",
-            "api" : "http://trtl.cryptohispano.net:8117/",
+            "url" : "https://trtl.cryptohispano.net/",
+            "api" : "https://trtl.cryptohispano.net/api",
             "type" : "forknote"
         },
         {
