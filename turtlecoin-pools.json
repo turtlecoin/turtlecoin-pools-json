@@ -44,6 +44,9 @@
     "us.turtlepool.space" : {
         "url" : "http://us.turtlepool.space/api/"
     },
+    "trtl.heigh-ho.funkypenguin.co.nz" : {
+        "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/"
+    },
     "z-pool.com" : {
         "url" : "https://z-pool.com/api/"
     }
