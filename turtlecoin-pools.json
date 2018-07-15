@@ -46,5 +46,8 @@
     },
     "z-pool.com" : {
         "url" : "https://z-pool.com/api/"
+    },
+    "turtle.psrcrypto.com" : {
+        "url" : "http://turtle.psrcrypto.com:8117/"
     }
 }
