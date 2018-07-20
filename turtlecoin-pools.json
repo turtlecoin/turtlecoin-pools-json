@@ -11,6 +11,9 @@
     "hk.turtlepool.space" : {
         "url" : "http://hk.turtlepool.space/api/"
     },
+    "turtle.casa" : {
+        "url" : "https://turtle.casa:8119"
+    },
     "mine.tortugamor.cf" : {
         "url" : "http://tortugamor.cf:8117/"
     },
