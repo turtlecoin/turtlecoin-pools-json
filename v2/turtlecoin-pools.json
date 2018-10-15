@@ -52,6 +52,7 @@
         {
             "name" : "CryptoNote.social",
             "url" : "https://cryptonote.social/trtl/",
+            "api" : null,
             "type" : "other",
             "miningAddress" : "cryptonote.social"
         },
