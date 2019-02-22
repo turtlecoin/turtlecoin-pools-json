@@ -50,6 +50,13 @@
             "miningAddress" : "pool.trtl.cryptopool.space"
         },
         {
+            "name" : "Cryptomine.cx/",
+            "url" : "https://trtl.cryptomine.cx/",
+            "api" : "https://trtl.cryptomine.cx/api",
+            "type" : "forknote",
+            "miningAddress" : "trtl.cryptomine.cx"
+        },
+        {
             "name" : "FunkyPenguin.co.nz",
             "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
             "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
