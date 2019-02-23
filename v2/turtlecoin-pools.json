@@ -36,6 +36,13 @@
             "miningAddress" : "trtl.cryptohispano.net"
         },
         {
+            "name" : "CryptoMine.cx",
+            "url" : "https://trtl.cryptomine.cx/",
+            "api" : "https://trtl.cryptomine.cx/api/",
+            "type" : "forknote",
+            "miningAddress" : "trtl.cryptomine.cx"
+        },
+        {
             "name" : "CryptoNote.social",
             "url" : "https://cryptonote.social/trtl/",
             "api" : "https://cryptonote.social/pool/statistics/trtl/",
@@ -48,14 +55,7 @@
             "api" : "https://trtl.cryptopool.space/api/",
             "type" : "node.js",
             "miningAddress" : "pool.trtl.cryptopool.space"
-        },
-        {
-            "name" : "Cryptomine.cx/",
-            "url" : "https://trtl.cryptomine.cx/",
-            "api" : "https://trtl.cryptomine.cx/api",
-            "type" : "forknote",
-            "miningAddress" : "trtl.cryptomine.cx"
-        },
+        },        
         {
             "name" : "FunkyPenguin.co.nz",
             "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
