@@ -1,207 +1,207 @@
 {
-    "pools" : [
-        {
-            "name" : "AtPool.party",
-            "url" : "https://turtle.atpool.party/",
-            "api" : "http://turtle-eu.atpool.party:8117/",
-            "type" : "forknote",
-            "miningAddress" : "geo.atpool.party"
-        },
-        {
-            "name" : "CODPool",
-            "url" : "https://trtl.codpool.com/",
-            "api" : "https://pool1.codpool.com:8119/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.pool.codpool.com"
-        },
-        {
-            "name" : "Crazybird's Pool",
-            "url" : "https://www.crazybird.fr/turtlepool/",
-            "api" : "https://mining.crazybird.fr:8118/",
-            "type" : "forknote",
-            "miningAddress" : "crazybird.fr"
-        },
-        {
-            "name" : "CryptoAsiaPool.com",
-            "url" : "http://trtl.cryptoasiapool.com/",
-            "api" : "http://trtl.cryptoasiapool.com:8118/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.cryptoasiapool.com"
-        },
-        {
-            "name" : "CryptoHispano.net",
-            "url" : "https://trtl.cryptohispano.net/",
-            "api" : "https://trtl.cryptohispano.net/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.cryptohispano.net"
-        },
-        {
-            "name" : "CryptoMine.cx",
-            "url" : "https://trtl.cryptomine.cx/",
-            "api" : "https://trtl.cryptomine.cx/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.cryptomine.cx"
-        },
-        {
-            "name" : "CryptoNote.social",
-            "url" : "https://cryptonote.social/trtl/",
-            "api" : "https://cryptonote.social/pool/statistics/trtl/",
-            "type" : "other",
-            "miningAddress" : "cryptonote.social"
-        },
-        {
-            "name" : "CryptoPool.space",
-            "url" : "https://trtl.cryptopool.space/",
-            "api" : "https://trtl.cryptopool.space/api/",
-            "type" : "node.js",
-            "miningAddress" : "pool.trtl.cryptopool.space"
-        },        
-        {
-            "name" : "FunkyPenguin.co.nz",
-            "url" : "https://trtl.heigh-ho.funkypenguin.co.nz/",
-            "api" : "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.heigh-ho.funkypenguin.co.nz"
-        },
-        {
-            "name" : "Hackerknowledge.de",
-            "url" : "https://trtl.hackerknowledge.de/",
-            "api" : "https://pool.trtl.hackerknowledge.de:8119/",
-            "type" : "forknote",
-            "miningAddress" : "pool.trtl.hackerknowledge.de"
-        },
-        {
-            "name" : "HashVault.pro",
-            "url" : "https://turtle.hashvault.pro/",
-            "api" : "https://turtle.hashvault.pro/api/",
-            "type" : "node.js",
-            "miningAddress" : "pool.turtle.hashvault.pro"
-        },
-        {
-            "name" : "Llama.Horse",
-            "url" : "http://trtl.llama.horse/",
-            "api" : "http://pool.llama.horse:8118/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.pool.llama.horse"
-        },
-        {
-            "name" : "Mine.nu",
-            "url" : "http://turtle.mine.nu/",
-            "api" : "http://turtle.mine.nu:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.mine.nu"
-        },
-        {
-            "name" : "Mine2Gether.com",
-            "url" : "https://trtl.mine2gether.com/",
-            "api" : "https://trtl.mine2gether.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.pool.mine2gether.com"
-        },
-        {
-            "name" : "MinerCartel",
-            "url" : "https://turtle.minercartel.com/",
-            "api" : "https://api.turtle.minercartel.com/api/",
-            "type" : "node.js",
-            "miningAddress" : "turtle.minercartel.com"
-        },
-        {
-            "name" : "Miner.Rocks",
-            "url" : "https://turtle.miner.rocks/",
-            "api" : "https://turtle.miner.rocks/api/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.miner.rocks"
-        },
-        {
-            "name" : "MineTRTL.us",
-            "url" : "http://ny.minetrtl.us/",
-            "api" : "http://ny.minetrtl.us:8117/",
-            "type" : "forknote",
-            "miningAddress" : "ny.minetrtl.us"
-        },
-        {
-            "name" : "MuxDux.com",
-            "url" : "https://trtl.muxdux.com/",
-            "api" : "https://trtl.muxdux.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.muxdux.com"
-        },
-        {
-            "name" : "Proxpool.com",
-            "url" : "http://trtl.proxpool.com/",
-            "api" : "http://trtl-pool.proxpool.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl-pool.proxpool.com"
-        },
-        {
-            "name" : "semiPOOL.com",
-            "url" : "https://webtrtl.semipool.com/",
-            "api" : "https://webtrtl.semipool.com/api/",
-            "type" : "node.js",
-            "miningAddress" : "pool.trtl.semipool.com"
-        },
-        {
-            "name" : "SteadyHash.org",
-            "url" : "https://trtl.steadyhash.org/",
-            "api" : "https://trtl.steadyhash.org/api/",
-            "type" : "forknote",
-            "miningAddress" : "trtl.steadyhash.org"
-        },
-        {
-            "name" : "TRTL.ninja",
-            "url" : "https://trtl.ninja/",
-            "api" : "https://trtl.ninja/api/",
-            "type" : "forknote",
-            "miningAddress" : "pool.trtl.ninja"
-        },
-        {
-            "name" : "TRTLCoinPool.tk",
-            "url" : "http://trtlcoinpool.tk/",
-            "api" : "http://trtlcoinpool.tk:2082/",
-            "type" : "forknote",
-            "miningAddress" : "trtlcoinpool.tk"
-        },
-        {
-            "name" : "Turtle.casa",
-            "url" : "https://turtle.casa/",
-            "api" : "https://api.turtle.casa/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.casa"
-        },
-        {
-            "name" : "Turtle.smartcoinpool.com",
-            "url" : "https://turtle.smartcoinpool.com/",
-            "api" : "https://turtle.smartcoinpool.com:3109/",
-            "type" : "forknote",
-            "miningAddress" : "turtle.smartcoinpool.com"
-        },
-        {
-            "name" : "Turtlecoin.herominers.com",
-            "url" : "https://turtlecoin.herominers.com/",
-            "api" : "https://turtlecoin.herominers.com/api/",
-            "type" : "forknote",
-            "miningAddress" : "turtlecoin.herominers.com"
-        },
-        {
-            "name" : "TurtlePool.ml",
-            "url" : "http://turtlepool.ml/",
-            "api" : "http://turtlepool.ml:8117/",
-            "type" : "forknote",
-            "miningAddress" : "turtlepool.ml"
-        },
-        {
-            "name" : "TurtlePool.space EU",
-            "url" : "http://eu.turtlepool.space/",
-            "api" : "http://eu.turtlepool.space/api/",
-            "type" : "forknote",
-            "miningAddress" : "eu.turtlepool.space"
-        },
-        {
-            "name" : "TurtlePool.space HK",
-            "url" : "http://hk.turtlepool.space/",
-            "api" : "http://hk.turtlepool.space/api/",
-            "type" : "forknote",
-            "miningAddress" : "hk.turtlepool.space"
-        }
-    ]
+  "pools": [
+    {
+      "name": "AtPool.party",
+      "url": "https://turtle.atpool.party/",
+      "api": "http://turtle-eu.atpool.party:8117/",
+      "type": "forknote",
+      "miningAddress": "geo.atpool.party"
+    },
+    {
+      "name": "CODPool",
+      "url": "https://trtl.codpool.com/",
+      "api": "https://pool1.codpool.com:8119/",
+      "type": "forknote",
+      "miningAddress": "trtl.pool.codpool.com"
+    },
+    {
+      "name": "Crazybird's Pool",
+      "url": "https://www.crazybird.fr/turtlepool/",
+      "api": "https://mining.crazybird.fr:8118/",
+      "type": "forknote",
+      "miningAddress": "crazybird.fr"
+    },
+    {
+      "name": "CryptoAsiaPool.com",
+      "url": "http://trtl.cryptoasiapool.com/",
+      "api": "http://trtl.cryptoasiapool.com:8118/",
+      "type": "forknote",
+      "miningAddress": "trtl.cryptoasiapool.com"
+    },
+    {
+      "name": "CryptoHispano.net",
+      "url": "https://trtl.cryptohispano.net/",
+      "api": "https://trtl.cryptohispano.net/api/",
+      "type": "forknote",
+      "miningAddress": "trtl.cryptohispano.net"
+    },
+    {
+      "name": "CryptoMine.cx",
+      "url": "https://trtl.cryptomine.cx/",
+      "api": "https://trtl.cryptomine.cx/api/",
+      "type": "forknote",
+      "miningAddress": "trtl.cryptomine.cx"
+    },
+    {
+      "name": "CryptoNote.social",
+      "url": "https://cryptonote.social/trtl/",
+      "api": "https://cryptonote.social/pool/statistics/trtl/",
+      "type": "other",
+      "miningAddress": "cryptonote.social"
+    },
+    {
+      "name": "CryptoPool.space",
+      "url": "https://trtl.cryptopool.space/",
+      "api": "https://trtl.cryptopool.space/api/",
+      "type": "node.js",
+      "miningAddress": "pool.trtl.cryptopool.space"
+    },
+    {
+      "name": "FunkyPenguin.co.nz",
+      "url": "https://trtl.heigh-ho.funkypenguin.co.nz/",
+      "api": "https://api.trtl.heigh-ho.funkypenguin.co.nz/",
+      "type": "forknote",
+      "miningAddress": "trtl.heigh-ho.funkypenguin.co.nz"
+    },
+    {
+      "name": "Hackerknowledge.de",
+      "url": "https://trtl.hackerknowledge.de/",
+      "api": "https://pool.trtl.hackerknowledge.de:8119/",
+      "type": "forknote",
+      "miningAddress": "pool.trtl.hackerknowledge.de"
+    },
+    {
+      "name": "HashVault.pro",
+      "url": "https://turtle.hashvault.pro/",
+      "api": "https://turtle.hashvault.pro/api/",
+      "type": "node.js",
+      "miningAddress": "pool.turtle.hashvault.pro"
+    },
+    {
+      "name": "Llama.Horse",
+      "url": "http://trtl.llama.horse/",
+      "api": "http://pool.llama.horse:8118/",
+      "type": "forknote",
+      "miningAddress": "trtl.pool.llama.horse"
+    },
+    {
+      "name": "Mine.nu",
+      "url": "http://turtle.mine.nu/",
+      "api": "http://turtle.mine.nu:8117/",
+      "type": "forknote",
+      "miningAddress": "turtle.mine.nu"
+    },
+    {
+      "name": "Mine2Gether.com",
+      "url": "https://trtl.mine2gether.com/",
+      "api": "https://trtl.mine2gether.com/api/",
+      "type": "forknote",
+      "miningAddress": "trtl.pool.mine2gether.com"
+    },
+    {
+      "name": "MinerCartel",
+      "url": "https://turtle.minercartel.com/",
+      "api": "https://api.turtle.minercartel.com/api/",
+      "type": "node.js",
+      "miningAddress": "turtle.minercartel.com"
+    },
+    {
+      "name": "Miner.Rocks",
+      "url": "https://turtle.miner.rocks/",
+      "api": "https://turtle.miner.rocks/api/",
+      "type": "forknote",
+      "miningAddress": "turtle.miner.rocks"
+    },
+    {
+      "name": "MineTRTL.us",
+      "url": "http://ny.minetrtl.us/",
+      "api": "http://ny.minetrtl.us:8117/",
+      "type": "forknote",
+      "miningAddress": "ny.minetrtl.us"
+    },
+    {
+      "name": "MuxDux.com",
+      "url": "https://trtl.muxdux.com/",
+      "api": "https://trtl.muxdux.com/api/",
+      "type": "forknote",
+      "miningAddress": "trtl.muxdux.com"
+    },
+    {
+      "name": "Proxpool.com",
+      "url": "http://trtl.proxpool.com/",
+      "api": "http://trtl-pool.proxpool.com/api/",
+      "type": "forknote",
+      "miningAddress": "trtl-pool.proxpool.com"
+    },
+    {
+      "name": "semiPOOL.com",
+      "url": "https://webtrtl.semipool.com/",
+      "api": "https://webtrtl.semipool.com/api/",
+      "type": "node.js",
+      "miningAddress": "pool.trtl.semipool.com"
+    },
+    {
+      "name": "SteadyHash.org",
+      "url": "https://trtl.steadyhash.org/",
+      "api": "https://trtl.steadyhash.org/api/",
+      "type": "forknote",
+      "miningAddress": "trtl.steadyhash.org"
+    },
+    {
+      "name": "TRTL.ninja",
+      "url": "https://trtl.ninja/",
+      "api": "https://trtl.ninja/api/",
+      "type": "forknote",
+      "miningAddress": "pool.trtl.ninja"
+    },
+    {
+      "name": "TRTLCoinPool.tk",
+      "url": "http://trtlcoinpool.tk/",
+      "api": "http://trtlcoinpool.tk:2082/",
+      "type": "forknote",
+      "miningAddress": "trtlcoinpool.tk"
+    },
+    {
+      "name": "Turtle.casa",
+      "url": "https://turtle.casa/",
+      "api": "https://api.turtle.casa/",
+      "type": "forknote",
+      "miningAddress": "turtle.casa"
+    },
+    {
+      "name": "Turtle.smartcoinpool.com",
+      "url": "https://turtle.smartcoinpool.com/",
+      "api": "https://turtle.smartcoinpool.com:3109/",
+      "type": "forknote",
+      "miningAddress": "turtle.smartcoinpool.com"
+    },
+    {
+      "name": "Turtlecoin.herominers.com",
+      "url": "https://turtlecoin.herominers.com/",
+      "api": "https://turtlecoin.herominers.com/api/",
+      "type": "forknote",
+      "miningAddress": "turtlecoin.herominers.com"
+    },
+    {
+      "name": "TurtlePool.ml",
+      "url": "http://turtlepool.ml/",
+      "api": "http://turtlepool.ml:8117/",
+      "type": "forknote",
+      "miningAddress": "turtlepool.ml"
+    },
+    {
+      "name": "TurtlePool.space EU",
+      "url": "http://eu.turtlepool.space/",
+      "api": "http://eu.turtlepool.space/api/",
+      "type": "forknote",
+      "miningAddress": "eu.turtlepool.space"
+    },
+    {
+      "name": "TurtlePool.space HK",
+      "url": "http://hk.turtlepool.space/",
+      "api": "http://hk.turtlepool.space/api/",
+      "type": "forknote",
+      "miningAddress": "hk.turtlepool.space"
+    }
+  ]
 }
