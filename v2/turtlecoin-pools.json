@@ -8,6 +8,13 @@
       "miningAddress": "geo.atpool.party"
     },
     {
+      "name": "stroppy.tk",
+      "url": "http://trtl.stroppy.tk/",
+      "api": "http://stroppy.ddns.net:8119",
+      "type": "cryptonote-nodejs-pool",
+      "miningAddress": "stroppy.ddns.net"
+    },
+    {
       "name": "CODPool",
       "url": "https://trtl.codpool.com/",
       "api": "https://pool1.codpool.com:8119/",
