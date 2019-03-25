@@ -127,6 +127,13 @@
       "miningAddress": "ny.minetrtl.us"
     },
     {
+      "name": "ModPool.org",
+      "url": "http://turtle.modpool.org/",
+      "api": "http://turtle.modpool.org:8117/",
+      "type": "forknote",
+      "miningAddress": "turtle.modpool.org"
+    },
+    {
       "name": "MuxDux.com",
       "url": "https://trtl.muxdux.com/",
       "api": "https://trtl.muxdux.com/api/",
