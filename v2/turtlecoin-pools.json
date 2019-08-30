@@ -109,6 +109,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Miningpool.fun",
+      "url": "https://trtl.Miningpool.fun/",
+      "api": "https://trtl.Miningpool.fun:8132/",
+      "type": "forknote",
+      "miningAddress": "trtl.Miningpool.fun",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "ModPool.org",
       "url": "http://turtle.modpool.org/",
       "api": "http://turtle.modpool.org:9149/",
@@ -222,15 +231,7 @@
       "miningAddress": "coinpoolit.webhop.me",
       "mergedMining": true,
       "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "Miningpool.fun",
-      "url": "https://trtl.Miningpool.fun/",
-      "api": "https://trtl.Miningpool.fun:8132/",
-      "type": "forknote",
-      "miningAddress": "trtl.Miningpool.fun",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
     }
+    
   ]
 }
