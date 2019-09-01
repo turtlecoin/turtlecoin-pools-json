@@ -73,6 +73,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Llama & Horse Mining Co.",
+      "url": "https://trtl.llama.horse/",
+      "api": "https://pool.llama.horse:10379/",
+      "type": "forknote",
+      "miningAddress": "pool.llama.horse",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Mine.nu",
       "url": "http://turtle.mine.nu/",
       "api": "http://turtle.mine.nu:8117/",
