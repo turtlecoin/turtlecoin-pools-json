@@ -24,7 +24,7 @@
       "api": "https://cnpool.cc/api/trtl/",
       "type": "forknote",
       "miningAddress": "trtl.cnpool.cc",
-      "mergedMining": true,
+      "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
     {
@@ -202,7 +202,7 @@
       "api": "https://coinpoolit.webhop.me:7009/",
       "type": "forknote",
       "miningAddress": "coinpoolit.webhop.me",
-      "mergedMining": true,
+      "mergedMining": false,
       "mergedMiningIsParentChain": false
     }
   ]
