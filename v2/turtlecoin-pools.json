@@ -1,6 +1,15 @@
 {
   "pools": [
     {
+      "name": "52 Hash",
+      "url": "http://trtl.52hash.com/",
+      "api": "http://106.14.155.66:8217/",
+      "type": "forknote",
+      "miningAddress": "pool.trtl.52hash.com",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "AtPool.party",
       "url": "https://turtle.atpool.party/",
       "api": "http://turtle-eu.atpool.party:8117/",
