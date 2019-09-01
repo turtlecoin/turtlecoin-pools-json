@@ -170,6 +170,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "Turtle School Mining",
+      "url": "https://trtl.xmr-school.cf/",
+      "api": "https://trtl.xmr-school.cf:3109/",
+      "type": "forknote",
+      "miningAddress": "trtl.xmr-school.cf",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "Webhop.me",
       "url": "https://coinpoolit.webhop.me/trtl/",
       "api": "https://coinpoolit.webhop.me:7009/",
