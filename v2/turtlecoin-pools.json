@@ -55,15 +55,6 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "Hackerknowledge.de",
-      "url": "https://trtl.hackerknowledge.de/",
-      "api": "https://pool.trtl.hackerknowledge.de:8119/",
-      "type": "forknote",
-      "miningAddress": "pool.trtl.hackerknowledge.de",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "HashVault.pro",
       "url": "https://turtle.hashvault.pro/",
       "api": "https://turtle.hashvault.pro/api/",
@@ -161,33 +152,6 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "STX Merged Mining Pool",
-      "url": "https://tlrmtrtl.merged.stx.nl/",
-      "api": "https://tlrmtrtl.merged.stx.nl/tlrmtl-api/",
-      "type": "forknote",
-      "miningAddress": "tlrmtrtl.merged.stx.nl",
-      "mergedMining": true,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "stroppy.tk",
-      "url": "http://trtl.stroppy.tk/",
-      "api": "http://trtl-stroppy.ddns.net:8119",
-      "type": "cryptonote-nodejs-pool",
-      "miningAddress": "trtl-stroppy.ddns.net",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "TRTL.ninja",
-      "url": "https://trtl.ninja/",
-      "api": "https://trtl.ninja/api/",
-      "type": "forknote",
-      "miningAddress": "pool.trtl.ninja",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "Turtlecoin.herominers.com",
       "url": "https://turtlecoin.herominers.com/",
       "api": "https://turtlecoin.herominers.com/api/",
@@ -202,24 +166,6 @@
       "api": "http://turtlepool.ml:8117/",
       "type": "forknote",
       "miningAddress": "turtlepool.ml",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "TurtlePool.space EU",
-      "url": "http://eu.turtlepool.space/",
-      "api": "http://eu.turtlepool.space/api/",
-      "type": "forknote",
-      "miningAddress": "eu.turtlepool.space",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
-      "name": "TurtlePool.space HK",
-      "url": "http://hk.turtlepool.space/",
-      "api": "http://hk.turtlepool.space/api/",
-      "type": "forknote",
-      "miningAddress": "hk.turtlepool.space",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
