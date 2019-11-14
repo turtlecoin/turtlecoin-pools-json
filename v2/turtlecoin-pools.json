@@ -161,6 +161,15 @@
       "miningAddress": "pool.trtl.semipool.com"
     },
     {
+      "name": "SpookyPool.nl",
+      "url": "http://trtl.spookypool.nl/",
+      "api": "http://trtl.spookypool.nl:9117/",
+      "type": "node.js",
+      "miningAddress": "trtl.steadyhash.org",
+      "mergedMining": false,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "SteadyHash.org",
       "url": "https://trtl.steadyhash.org/",
       "api": "https://trtl.steadyhash.org/api/",
