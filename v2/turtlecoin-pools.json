@@ -164,8 +164,8 @@
       "name": "SpookyPool.nl",
       "url": "http://trtl.spookypool.nl/",
       "api": "http://trtl.spookypool.nl:9117/",
-      "type": "node.js",
-      "miningAddress": "trtl.steadyhash.org",
+      "type": "forknote",
+      "miningAddress": "trtl.spookypool.nl",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
