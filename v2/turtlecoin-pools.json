@@ -165,7 +165,7 @@
       "url": "http://trtl.spookypool.nl/",
       "api": "http://trtl.spookypool.nl:9117/",
       "type": "forknote",
-      "miningAddress": "trtl.spookypool.nl",
+      "miningAddress": "spookypool.nl",
       "mergedMining": false,
       "mergedMiningIsParentChain": false
     },
