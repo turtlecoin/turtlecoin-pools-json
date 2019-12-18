@@ -76,7 +76,7 @@
       "name": "FastPool.xyz",
       "url": "https://fastpool.xyz/trtl/",
       "api": "https://fastpool.xyz/api-trtl/",
-      "type": "node.js",
+      "type": "forknote",
       "miningAddress": "fastpool.xyz",
       "mergedMining": true,
       "mergedMiningIsParentChain": false
