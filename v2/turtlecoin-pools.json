@@ -73,6 +73,15 @@
       "mergedMiningIsParentChain": false
     },
     {
+      "name": "FastPool.xyz",
+      "url": "https://fastpool.xyz/trtl/",
+      "api": "https://fastpool.xyz/api-trtl/",
+      "type": "node.js",
+      "miningAddress": "fastpool.xyz",
+      "mergedMining": true,
+      "mergedMiningIsParentChain": false
+    },
+    {
       "name": "HashVault.pro",
       "url": "https://turtle.hashvault.pro/",
       "api": "https://turtle.hashvault.pro/api/",
