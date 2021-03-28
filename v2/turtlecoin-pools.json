@@ -53,16 +53,7 @@
       "miningAddress": "trtl.cryptonote.club",
       "mergedMining": true,
       "mergedMiningIsParentChain": true
-    },
-    {
-      "name": "CuvéeARM TurtleCoin Pool",
-      "url": "https://publicnode.ydns.eu/",
-      "api": "https://publicnode.ydns.eu/api/",
-      "type": "forknote",
-      "miningAddress": "publicnode.ydns.eu",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
+    },  
     {
       "name": "FairCryptoCoins TurtleCoin Pool",
       "url": "https://turtlepool.faircryptocoins.xyz/",
