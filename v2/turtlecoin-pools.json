@@ -1,15 +1,6 @@
 {
   "pools": [
     {
-      "name": "AllCoinsPool.com",
-      "url": "http://turtlecoinpool.allcoinspool.com/",
-      "api": "http://turtlecoinpool.allcoinspool.com:8117/",
-      "type": "forknote",
-      "miningAddress": "turtlecoinpool.allcoinspool.com",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "AtPool.party",
       "url": "https://turtle.atpool.party/",
       "api": "http://turtle-eu.atpool.party:8117/",
