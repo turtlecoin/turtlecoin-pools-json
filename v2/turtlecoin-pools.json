@@ -109,15 +109,6 @@
       "mergedMiningIsParentChain": false
     },
     {
-      "name": "Turtlecoin.herominersr.gay",
-      "url": "http://turtlecoin.herominersr.gay/",
-      "api": "http://turtlecoin.herominersr.gay:8117/",
-      "type": "forknote",
-      "miningAddress": "turtlecoin.herominersr.gay",
-      "mergedMining": false,
-      "mergedMiningIsParentChain": false
-    },
-    {
       "name": "Turtlecoin.herominers.com",
       "url": "https://turtlecoin.herominers.com/",
       "api": "https://turtlecoin.herominers.com/api/",
